@@ -1,6 +1,6 @@
  Context-Aware Food Add-On Recommendation System (CSAO)
 
-A machine learning–based context-aware food add-on recommender developed for the Zomathon Hackathon.
+A machine learning–based context-aware food add-on recommender.
 The system predicts and ranks complementary menu items a user is most likely to add to their cart using user behavior, cart context, and restaurant menu attributes.
 
 It integrates 33k user–cart interactions with a 90k+ restaurant menu catalog to generate realistic Top-N add-on suggestions under real-time latency constraints.
